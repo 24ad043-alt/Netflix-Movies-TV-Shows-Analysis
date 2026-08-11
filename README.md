@@ -1,2 +1,3 @@
-# Netflix-Movies-TV-Shows-Analysis
-This project analyzes Netflix movies and TV shows to identify trends and patterns based on content type, genre, country, rating, and release year using Python, Jupyter Notebook, and Power
+Netflix Movies & TV Shows Analysis is a data analysis and visualization project developed to explore and understand the content available on Netflix.
+The project uses the Netflix Movies and TV Shows dataset containing information such as content type, title, director, cast, country, date added, release year, rating, duration, and genre.
+The main objective of this project is to identify patterns, trends, and useful insights from the Netflix dataset. The data is cleaned and analyzed using Python and Jupyter Notebook, followed by visualization using Matplotlib and Seaborn. An interactive Power BI dashboard is also created to present the important findings in an easy-to-understand manner.
